@@ -2,10 +2,10 @@
 
 # Gambar aplikasi
 
--Gambar 1
+
 ![Img 1](screenshot/1.png)
 
--Gambar 2
+
 ![Img 2](screenshot/2.png)
 
 ## Getting Started
