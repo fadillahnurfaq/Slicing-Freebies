@@ -1,6 +1,9 @@
 # slicing_freebies
 
-A new Flutter project.
+# Gambar aplikasi
+
+![Img 1](screenshot/1.png)
+![Img 2](screenshot/2.png)
 
 ## Getting Started
 
